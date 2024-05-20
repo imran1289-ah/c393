@@ -1,11 +1,15 @@
-# New Header
-This code is awesome
-## Header 2
-Some more stuff here
+
+# Header
+This is the bug fix 
+had to add some documentation to describe it
+
 ## Header 3
 
 ```sh
 sudo yum update # dont forget to update before new package
-sudo yum install docker
+sudo yum install docker -y
+# added -y to auto install for docker image build ....
 ```
-hello again
+
+Thank you
+
